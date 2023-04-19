@@ -49,7 +49,7 @@ const uint16_t _ascii_de_map[128] PROGMEM =
                 0x2c,      //  ' '
                 0x1e|DE_MOD_SHIFT_LEFT,    // !
                 0x1F|DE_MOD_SHIFT_LEFT,    // "
-                0x38,    // #
+                0x32,    // #
                 0x21|DE_MOD_SHIFT_LEFT,    // $
                 0x22|DE_MOD_SHIFT_LEFT,    // %
                 0x23|DE_MOD_SHIFT_LEFT,    // &
